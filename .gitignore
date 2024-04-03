@@ -1,2 +1,6 @@
 # Ignore these
-HelloWorld/
+*JB/
+*.vscode/
+*.exe
+
+# But not these
