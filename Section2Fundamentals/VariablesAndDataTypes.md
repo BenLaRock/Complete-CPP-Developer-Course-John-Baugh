@@ -1,24 +1,44 @@
 ## Primitive Types
 ### Numerical Types
-**Int**
+**int**
 - a positive or negative whole number
 
-**Short**
+**short**
 
-**Long**
+**double**
 
-**Long Long**
+**long**
+
+**long long**
 
 ### Textual Types
-**Char**
+**char**
 - a single character
 - single quotes
 
 ### Boolean Type
-**Bool**
+**bool**
 - can only be true or false
+- zero value is considered false
+- non-zero value is considered true
 
 ## Class Types
-**String**
+**string**
 - included in the string library
 - double quotes
+
+
+## Arithmetic Operators
+* "+" addition
+    * result += 15 is same as result = result + 15
+    * ++ increments by 1
+* "-" subtraction
+    * -=
+    * -- decrements by 1
+* "*" multiplication
+    * *=
+* "/" division
+    * /= 
+* "%" modulus
+
+## Relational Operators

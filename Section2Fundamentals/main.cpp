@@ -1,12 +1,18 @@
 #include <iostream>
 #include <string>
 
+/* 
+    Multiline comment:
+    The Complete C++ Developer Course
+    Instructor: Dr. John P Baugh
+*/
+
 int main() {
     using namespace std;
 
-    char singleChar = 'a';
-    string myName = "Ben";
+    int a = 10;
+    a--; 
 
-    cout << myName << endl;
+    cout << a <<  endl;
     return 0;
 }
